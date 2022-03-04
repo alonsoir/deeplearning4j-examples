@@ -28,10 +28,10 @@
     <artifactId>dl4j-spark</artifactId>
 
     <properties>
-        <jcommander.version>1.27</jcommander.version>
-        <azure.hadoop.version>2.7.4</azure.hadoop.version>
-        <azure.storage.version>2.0.0</azure.storage.version>
-        <spark.version>2.1.0</spark.version>
+        <jcommander.version>1.75</jcommander.version>
+        <azure.hadoop.version>3.3.1</azure.hadoop.version>
+        <azure.storage.version>8.0.0</azure.storage.version>
+        <spark.version>2.4.6</spark.version>
     </properties>
 
     <dependencyManagement>
@@ -118,7 +118,7 @@
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
-            <version>1.10.2</version>
+            <version>1.14.2</version>
         </dependency>
 
         <!-- Used for patent classification example -->
