@@ -29,7 +29,7 @@
 
     <properties>
         <jcommander.version>1.27</jcommander.version>
-        <azure.hadoop.version>2.7.4</azure.hadoop.version>
+        <azure.hadoop.version>2.10.2</azure.hadoop.version>
         <azure.storage.version>2.0.0</azure.storage.version>
         <spark.version>2.1.0</spark.version>
     </properties>
